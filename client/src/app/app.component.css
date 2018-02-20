@@ -1,0 +1,15 @@
+.wrapper {
+    width: 750px;
+}
+
+.btn {
+    width: 130px;
+    height: 35px;
+    background-color: aliceblue;
+    margin: 30px 5px;
+    font-size: 16px;
+}
+
+p {
+    font-size: 16px;  
+}

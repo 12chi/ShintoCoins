@@ -1,0 +1,32 @@
+p {
+    font-size: 20px;
+}
+.main {
+    width: 500px;
+}
+.btn {
+    width: 100px;
+    height: 20px;
+    background-color: aliceblue;
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: top;
+}
+.col1 {
+    width: 120px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.col4 {
+    width: 450px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.row {
+    background-color: aliceblue;
+    padding: 5px;
+}

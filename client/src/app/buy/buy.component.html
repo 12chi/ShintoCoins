@@ -1,0 +1,10 @@
+<div class='main'>
+  <h1> Buy ShintoCoin</h1>
+  
+  <p> Current ShintoCoin Value: {{ value }} </p>
+  <p> Number of ShintoCoins Owned: {{ balance }}</p>
+  <form (submit)="buyCoin()" class='buy'>
+    <p><input type='text' class='ans' name='ans' [(ngModel)]="ans"/> <input type='submit' class='btn' value='Buy'></p>
+  </form>
+</div>
+  
